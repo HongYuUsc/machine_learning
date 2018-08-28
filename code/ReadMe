@@ -1,0 +1,4 @@
+"profit.py" calculate the profit return
+"plot.py" plot the curve
+"lstm.py","rnn.py","wlstm.py","raf.py" are 4 different machine learning method
+all csv files are finicial data of a certain stock in China
